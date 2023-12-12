@@ -7,7 +7,7 @@
  - Predictive Models
  - Astrophysics
 
-# Edutacion 
+# Education
 ## Highschool 
 - Mexican Univesity Center  2017-2020
 
@@ -25,6 +25,12 @@
 - MongoDB
 - neo4j
 - Cassandra
-- 
+
+## Programming Languages
+- Java
+- Python
+- Julia
+
+
 
 
