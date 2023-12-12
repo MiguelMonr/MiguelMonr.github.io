@@ -14,4 +14,17 @@
 ## College 
 - ITAM   2020-202?
 
+## Development tools 
+- Git
+- Github Kraken
+- Docker
+- AWS
+
+## Data bases
+- SQL
+- MongoDB
+- neo4j
+- Cassandra
+- 
+
 
