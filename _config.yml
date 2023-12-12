@@ -1,7 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: /:title/
+title: "Miguel A. Monreal Villa"
+author: "MiguelMonr"
+description: "Data Science final proyect"
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
