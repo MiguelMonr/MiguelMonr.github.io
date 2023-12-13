@@ -1,7 +1,9 @@
 # About Me
+
+
  - Miguel Monreal
  - CDMX
-
+[[file:imagenes/Miguel.jpeg]]
 # Interest 
  - Game Theory
  - Predictive Models
