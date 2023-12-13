@@ -1,6 +1,6 @@
 # About Me
+[[file:MiguelMonr.github.io/images/Miguel.jpeg]]
 
-![](MiguelMonr.github.io/images/Miguel.jpeg)
 
  - Miguel Monreal
  - CDMX
