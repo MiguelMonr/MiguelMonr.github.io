@@ -1,46 +1,6 @@
-# About Me
-![](images/Miguel.jpeg)
+# Read me
 
- - Miguel Monreal
- - CDMX
-
-# Interest 
- - Game Theory
- - Predictive Models
- - Astrophysics
-
-# Education
-## Highschool 
-![](images/cum.jpeg)
-- Mexican Univesity Center  2017-2020
-
-## College 
-![](images/itam.png)
-- ITAM   2020-202?
-
-## Development tools 
-- Git
-- Github
-- Github Kraken
-- Docker
-- AWS
-
-![](images/git&github.png)
-
-## Data bases
-- SQL
-- MongoDB
-- neo4j
-- Cassandra
-
-![](images/mongodb.png)
-
-## Programming Languages
-- Java
-- Python
-- Julia
-
-![](images/julia.jpeg)
+Hello! I'm Miguel Monreal but most of the people call me Mike. This is my first github page. Feel free to explore arround!
 
 
 
