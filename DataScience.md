@@ -15,7 +15,7 @@ Wins = 80.8814 + 0.1058*RunDifference
 
 RunDifference ≥ 133.4 (which DePodesta approximated to 135)
 
-## And what about the team=
+## And what about the team?
 
 Now to form the right combination of players, within a limited budget, the Oakland A’s made use of 2001 player statistics. Here, Paul DePodesta (somewhat controversially) placed emphasis on the player On-base percentage statistics as opposed to the traditional batting average variables. The following multiple linear regression model now helps us understand why:
 
