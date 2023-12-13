@@ -1,9 +1,10 @@
 # About Me
 
+![](MiguelMonr.github.io/images/Miguel.jpeg)
 
  - Miguel Monreal
  - CDMX
-[[file:images/Miguel.jpeg]]
+
 # Interest 
  - Game Theory
  - Predictive Models
