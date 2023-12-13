@@ -17,7 +17,7 @@ minimal: True             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "intro.md", title: About me}
   - {file: "Expirience.md", title: Previous Jobs}
-   - {file: "DataScience.md", title: Data Science}
+   
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
