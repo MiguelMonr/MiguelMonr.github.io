@@ -5,7 +5,7 @@ However this stats were ignored most of the time until one team use them to tran
 
 In the 2002 season Paul DePodesta devised a method to find and make use of undervalued players, based on statistical variables that had largely been ignored earlier. His goal was to create a framework which would increase the likelihood of the Oakland A’s making it to the playoffs. He began by stating the somewhat intuitive claim that the probability of any team making it to the playoffs depended on the number of games they won in their regular season. Hence, in order to make it to the playoffs, he had to devise a method to not only discover how many games the team needed to get to that point but also to find the optimal team structure that would give the Oakland A’s just enough wins to make it through.
 
-
+![](images/Standard_Normal_Distribution.png)
 
 ## What does he had in mind? 
 He used estimates of the necessary variables and created that optimal team structure. In terms of statistical tools, this can be explained in terms of linear regression models, which are used to predict how many games a team will win in future regular seasons using the difference between runs scored (based on the right batting statistical variables) and runs allowed (based on the right fielding and pitching variables). Hence, grounded on the pre-2002 data, Paul DePodesta estimated that the Oakland A’s needed at least 95 wins to make it to the playoffs. If we use the pre-2002 MLB data and create the following simple linear regression model, we arrive at the same number as Paul DePodesta i.e. the Oakland A’s needed to score approximately 135 more runs than their opposition to make it to the playoffs:
