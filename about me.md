@@ -23,6 +23,7 @@
 - Github Kraken
 - Docker
 - AWS
+
 ![](images/git&github.png)
 
 ## Data bases
@@ -30,12 +31,14 @@
 - MongoDB
 - neo4j
 - Cassandra
+
 ![](images/mongodb.png)
 
 ## Programming Languages
 - Java
 - Python
 - Julia
+
 ![](images/julia.jpeg)
 
 
