@@ -15,6 +15,7 @@
 - Mexican Univesity Center  2017-2020
 
 ## College 
+![](images/itam.png)
 - ITAM   2020-202?
 
 ## Development tools 
