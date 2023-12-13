@@ -1,5 +1,5 @@
 # About Me
-![](images/Miguel.jpeg)
+![](images/MiguelIC.jpeg)
 
  - Miguel Monreal
  - CDMX
