@@ -3,7 +3,7 @@
 
  - Miguel Monreal
  - CDMX
-[[file:imagenes/Miguel.jpeg]]
+[[file:images/Miguel.jpeg]]
 # Interest 
  - Game Theory
  - Predictive Models
