@@ -9,6 +9,11 @@
  - Predictive Models
  - Astrophysics
  - Movies (I'm a huge fan of Justin Hurwitz flims!)
+# Favorite Movies
+ - Whiplash
+ - Beutiful Mind
+ - Reserviour Dogs
+ - Babylon
 
 # Education
 ## Highschool 
