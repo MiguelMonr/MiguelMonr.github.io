@@ -8,6 +8,7 @@
  - Game Theory
  - Predictive Models
  - Astrophysics
+ - Movies (I'm a huge fan of Justin Hurwitz flims!)
 
 # Education
 ## Highschool 
