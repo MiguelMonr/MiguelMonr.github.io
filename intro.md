@@ -15,7 +15,7 @@
  - Beutiful Mind
  - Reserviour Dogs
  - Babylon
-![](images/Babylon1.jpeg)
+![](images/Babylon1.jpg)
 ![](images/nash.jpg)
 
 # Education
